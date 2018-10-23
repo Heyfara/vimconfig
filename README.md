@@ -1,4 +1,5 @@
 My personnal Vim config
+------
 
 # INSTALL
 
