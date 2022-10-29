@@ -4,6 +4,7 @@ Plug 'StanAngeloff/php.vim'
 Plug 'stephpy/vim-php-cs-fixer'
 Plug 'nelsyeung/twig.vim'
 Plug 'morhetz/gruvbox'
+Plug 'maxmellon/vim-jsx-pretty'
 call plug#end()
 
 syntax on
