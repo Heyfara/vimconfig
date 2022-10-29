@@ -12,8 +12,7 @@ filetype plugin indent on
 set path+=**
 set wildmenu
 
-" Turn hybrid line numbers on
-:set number relativenumber
+:set number
 :set tabstop=4
 :set shiftwidth=4
 :set expandtab
