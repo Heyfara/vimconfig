@@ -12,6 +12,8 @@ filetype plugin indent on
 set path+=**
 set wildmenu
 
+" Disable mouse
+:set mouse=
 :set number
 :set tabstop=4
 :set shiftwidth=4
